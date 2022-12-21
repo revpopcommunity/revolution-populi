@@ -49,7 +49,14 @@ A layer-1 network is another name for a base blockchain. BNB Smart Chain (BNB), 
 
 - 100,000 transactions per second
 
-With 100K transactions per second, it is one of the fastest blockchains on the market.
+With 100K transactions per second, it will be the fastest L1 on the market.
+
+| Project                  | Ethereum     | Cardano     | Avalanche    | Solana       | Polkadot     | Tron       | Cosmos       | Algorand     | Fantom       | Revolution Populi |
+|--------------------------|--------------|-------------|--------------|--------------|--------------|------------|--------------|--------------|--------------|-------------------|
+| Symbol                   | ETH          | ADA         | AVAX         | SOL          | DOT          | TRX        | ATOM         | ALGO         | FTM          | RVP               |
+| Fully Diluted Market Cap | $145 billion | $11 billion | $8.4 billion | $6.4 billion | $5.6 billion | $5 billion | $2.6 billion | $1.7 billion | $0.6 billion | $0.045 billion    |
+| Transactions Per Second  | 15           | 1           | 4,500        | 50,000       | 10,000       | 2,000      | 1,000        | 6,000        | 10,000       | 100,000           |
+
 
 - rdPOS (random delegated Proof Of Stake)
 
